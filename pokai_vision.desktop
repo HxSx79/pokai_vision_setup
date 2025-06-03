@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=/home/dpp-jetson/Poka-Yoke/OPM_Poka-Yoke.sh
+Name=OPM Poka-Yoke
+Icon=/home/dpp-jetson/Poka-Yoke/icon.png
+StartupNotify=true
